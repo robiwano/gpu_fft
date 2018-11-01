@@ -1,6 +1,6 @@
 # GPU_FFT
 
-Mirror of hello_fft sources from the Raspberry Pi firmware repository
+Mirror of hello_fft sources from the Raspberry Pi firmware repository, see link at bottom.
 
 BCM2835 "GPU_FFT" release 3.0 by Andrew Holme, 2015.
 
@@ -172,3 +172,5 @@ is probably unnecessary.  It depends on how the final output will be accessed.
 ## Links
 
 [[1](http://www.aholme.co.uk/GPU_FFT/Main.htm)] Home of Andrew Holme's GPU_FFT project.
+
+[[2](https://github.com/raspberrypi/firmware/tree/master/opt/vc/src/hello_pi/hello_fft)] GPU_FFT at Raspberry Github repository.
